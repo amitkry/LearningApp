@@ -1,0 +1,37 @@
+### Q\&A List
+
+**Q1. What is HTML?**
+**A1.** HTML stands for *HyperText Markup Language*. It is used to create the structure of web pages.
+
+**Q2. What is CSS?**
+**A2.** CSS stands for *Cascading Style Sheets*. It is used to style and design the HTML elements (colors, fonts, layouts).
+
+**Q3. What is JavaScript?**
+**A3.** JavaScript is a programming language used to add interactivity and dynamic behavior to web pages.
+
+**Q4. What is the difference between HTML and CSS?**
+**A4.** HTML gives the structure of a webpage, while CSS is used to make it look attractive.
+
+**Q5. What is a tag in HTML?**
+**A5.** Tags are special keywords enclosed in `< >` that tell the browser how to display content. Example: `<p>` for paragraph.
+
+**Q6. What is an attribute in HTML?**
+**A6.** Attributes provide extra information about an element. Example: `<img src="image.jpg" alt="pic">`.
+
+**Q7. What is the difference between inline CSS and external CSS?**
+**A7.**
+
+* Inline CSS → written inside the tag itself using `style` attribute.
+* External CSS → written in a separate `.css` file and linked with `<link>` tag.
+
+**Q8. What is the use of the `<head>` tag in HTML?**
+**A8.** The `<head>` tag contains metadata, title, and links to CSS/JS files (not visible on the page).
+
+**Q9. What is the difference between `id` and `class` in HTML/CSS?**
+**A9.**
+
+* `id` is unique and used for one element.
+* `class` can be used for multiple elements.
+
+**Q10. What are HTML5 semantic tags?**
+**A10.** Semantic tags describe the meaning of the content. Example: `<header>`, `<footer>`, `<article>`, `<section>`.
